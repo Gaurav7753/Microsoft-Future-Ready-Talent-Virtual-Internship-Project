@@ -6,6 +6,8 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 Project Link :https://white-moss-0ef554e00.3.azurestaticapps.net
 
+Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
+
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
