@@ -10,6 +10,9 @@ Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
 
+### Primary Azure Technology :
+Static Web Apps , Healthbot
+
 ### Industry :
 Health
 
@@ -28,8 +31,6 @@ Empowerment: Online health websites can empower people to take control of their 
 This website makes your medical needs easy to keep all the records related to patients and doctors suggestions for the treatment.
 Medpill website is a platform that provides various healthcare services through the internet. These services can include consultations with medical professionals, online prescriptions, ordering medical supplies, and access to medical information and resources. Online healthcare websites can be useful for individuals who are unable to physically visit a healthcare facility due to geographical, physical or other constraints, as well as those who prefer the convenience of accessing healthcare services from the comfort of their homes. Additionally, online healthcare websites can help reduce the workload of healthcare providers and minimize waiting times for patients. It's important to note that while online healthcare websites can provide convenience, they should never replace the need for in-person medical care in emergency situations.
 
-### Primary Azure Technology :
-Static Web Apps , Healthbot
 
 ### Screenshots :
 ![Screenshot (35)](https://user-images.githubusercontent.com/93502957/236379189-cfb0480f-8a86-412c-9a2d-f6c2380ed503.png)
